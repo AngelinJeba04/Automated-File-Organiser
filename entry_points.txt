@@ -1,0 +1,2 @@
+[console_scripts]
+file-organizer = automated_file_organizer.cli:main
